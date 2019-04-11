@@ -8,6 +8,48 @@
   <title>Pizza Builder</title>
 </head>
 <body>
+    <header>
+      <h1>Pizza Builder</h1>
+      <p class="description">Build your own HTML and CSS pizza.</p>
+    </header>
+
+    <div class="panel controls">
+        <ul>
+          <li>
+            <button class="btn btn-pepperonni active">Pepperonni</button>
+          </li>
+          <li>
+            <button class="btn btn-mushrooms active">Mushrooms</button>
+          </li>
+          <li>
+            <button class="btn btn-green-peppers active">Green peppers</button>
+          </li>
+          <li>
+            <button class="btn btn-sauce active">White sauce</button>
+          </li>
+          <li>
+            <button class="btn btn-crust active">Gluten-free crust</button>
+          </li>
+        </ul>
+      </div>
+
+      <aside class="panel price">
+          <h2>Your pizza's price</h2>
+    
+          <b>$10 cheese pizza</b>
+          <ul>
+            <li class="pepPrice">$1 pepperonni</li>
+            <li class="mushPrice">$1 mushrooms</li>
+            <li class="pepperPrice">$1 green peppers</li>
+            <li class="saucePrice">$3 white sauce</li>
+            <li class="crustPrice">$5 gluten-free crust</li>
+          </ul>
+          <strong>$<span class="total">21</span></strong>
+        </aside>
+
+        
+
+
   <script src="https://code.jquery.com/jquery-3.3.1.js" integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60=" crossorigin="anonymous"></script>
   <script src="/pizza.js"></script>
 </body>
