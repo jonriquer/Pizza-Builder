@@ -4,7 +4,7 @@
 }
 
 body {
- 
+
 }
 
 ol, ul {
@@ -248,4 +248,51 @@ p.description {
   font-size: 30px;
   display: block;
   margin-top: 6px;
+}
+
+#pizza {
+  margin: 15px auto;
+  width: 702px;
+  height: 702px;
+  overflow: hidden;
+  position: relative;
+}
+
+.crust {
+  width: 700px;
+  height: 700px;
+  border-radius: 800px;
+  background: #ab5f2b;
+  box-shadow: inset 0 0 40px #e5a53b;
+  border: 1px solid #ab5f2b;
+}
+
+.crust-gluten-free {
+  background-color: #e0d5cf;
+  box-shadow: inset 0 0 40px #d3c3bb;
+}
+
+.sauce {
+  position: absolute;
+  width: 620px;
+  height: 620px;
+  border-radius: 720px;
+  background: #640d15;
+  margin: 40px 0 0 40px;
+  box-shadow: inset 0 0 10px #dd2f25;
+}
+
+.sauce-white {
+  background: #fff4aa;
+}
+
+.cheese {
+  position: absolute;
+  width: 600px;
+  height: 600px;
+  border-radius: 700px;
+  background: #f3d255;
+  margin: 50px 0 0 50px;
+  z-index: 10;
+  box-shadow: inset 0 0 200px #d88e24;
 }
