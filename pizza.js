@@ -9,6 +9,7 @@ function renderEverything() {
 function renderPepperonni() {
   $(".btn-pepperonni").click(function(){
     $(this).toggleClass('active');
+    $('.pep').toggle();
   });
 }
 
