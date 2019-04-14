@@ -210,6 +210,7 @@ p.description {
   box-shadow: none;
 }
 
+/* ----- Price ------ */
 .price {
   right: 0;
 }
@@ -327,4 +328,44 @@ p.description {
 
 .pep.five {
   margin: 275px 0 0 555px;
+}
+
+.pep.six {
+  margin: 365px 0 0 550px;
+}
+
+.pep.seven {
+  margin: 450px 0 0 515px;
+}
+
+.pep.eight {
+  margin: 515px 0 0 450px;
+}
+
+.pep.nine {
+  margin: 555px 0 0 365px;
+}
+
+.pep.ten {
+  margin: 560px 0 0 270px;
+}
+
+.pep.eleven {
+  margin: 560px 0 0 270px;
+}
+
+.pep.twelve {
+  margin: 524px 0 0 182px;
+}
+
+.pep.thirteen {
+  margin: 265px 0 0 355px;
+}
+
+.pep.fourteen {
+  margin: 233px 0 0 445px;
+}
+
+.pep.fifteen {
+  margin: 467px 0 0 340px;
 }

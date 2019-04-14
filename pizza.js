@@ -10,6 +10,7 @@ function renderPepperonni() {
   $(".btn-pepperonni").click(function(){
     $(this).toggleClass('active');
     $('.pep').toggle();
+    $('.pepPrice').toggle();
   });
 }
 
