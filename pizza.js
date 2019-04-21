@@ -6,11 +6,23 @@ function renderEverything() {
   renderCrust();
 }
 
+function updatePrice() {
+  let totalPrice = 10; 
+    visibleItems = $('aside ul li:visible');
+
+  for (i=0; i < visibleItems.length; i++) {
+    totalPrice += Number(visibleItems[i].innerText[1]);
+  };
+  $('.total')[0].innerText = totalPrice;
+  console.log($('.total'))
+}
+
 function renderPepperonni() {
   $(".btn-pepperonni").click(function(){
     $(this).toggleClass('active');
     $('.pep').toggle();
     $('.pepPrice').toggle();
+    updatePrice();
   });
 }
 
