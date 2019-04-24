@@ -559,3 +559,75 @@ p.description {
   -o-transform: rotate(115deg);
   transform: rotate(115deg);
 }
+
+.mushroom.twelve {
+  margin: 307px 0 0 423px;
+  -webkit-transform: rotate(-47deg);
+  -moz-transform: rotate(-47deg);
+  -o-transform: rotate(-47deg);
+  transform: rotate(-47deg);
+}
+
+.mushroom.thirteen {
+  margin: 440px 0 0 170px;
+  -webkit-transform: rotate(115deg);
+  -moz-transform: rotate(115deg);
+  -o-transform: rotate(115deg);
+  transform: rotate(115deg);
+}
+
+.mushroom.fourteen {
+  margin: 397px 0 0 480px;
+  -webkit-transform: rotate(67deg);
+  -moz-transform: rotate(67deg);
+  -o-transform: rotate(67deg);
+  transform: rotate(67deg);
+}
+
+.mushroom.fifteen {
+  margin: 177px 0 0 451px;
+  -webkit-transform: rotate(-86deg);
+  -moz-transform: rotate(-86deg);
+  -o-transform: rotate(-86deg);
+  transform: rotate(-86deg);
+}
+
+.mushroom.sixteen {
+  margin: 227px 0 0 250px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+
+.mushroom.seventeen {
+  margin: 137px 0 0 231px;
+  -webkit-transform: rotate(-101deg);
+  -moz-transform: rotate(-101deg);
+  -o-transform: rotate(-101deg);
+  transform: rotate(-101deg);
+}
+
+.mushroom.eighteen {
+  margin: 377px 0 0 230px;
+  -webkit-transform: rotate(289deg);
+  -moz-transform: rotate(289deg);
+  -o-transform: rotate(289deg);
+  transform: rotate(289deg);
+}
+
+.mushroom.nineteen {
+  margin: 507px 0 0 381px;
+  -webkit-transform: rotate(133deg);
+  -moz-transform: rotate(133deg);
+  -o-transform: rotate(133deg);
+  transform: rotate(133deg);
+}
+
+.mushroom.twenty {
+  margin: 427px 0 0 381px;
+  -webkit-transform: rotate(115deg);
+  -moz-transform: rotate(115deg);
+  -o-transform: rotate(115deg);
+  transform: rotate(115deg);
+}
