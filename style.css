@@ -512,3 +512,50 @@ p.description {
   transform: rotate(-86deg);
 }
 
+.mushroom.six {
+  margin: 301px 0 0 290px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+
+.mushroom.seven {
+  margin: 417px 0 0 320px;
+  -webkit-transform: rotate(-101deg);
+  -moz-transform: rotate(-101deg);
+  -o-transform: rotate(-101deg);
+  transform: rotate(-101deg);
+}
+
+.mushroom.eight {
+  margin: 507px 0 0 304px;
+  -webkit-transform: rotate(289deg);
+  -moz-transform: rotate(289deg);
+  -o-transform: rotate(289deg);
+  transform: rotate(289deg);
+}
+
+.mushroom.nine {
+  margin: 507px 0 0 381px;
+  -webkit-transform: rotate(133deg);
+  -moz-transform: rotate(133deg);
+  -o-transform: rotate(133deg);
+  transform: rotate(133deg);
+}
+
+.mushroom.ten {
+  margin: 427px 0 0 381px;
+  -webkit-transform: rotate(115deg);
+  -moz-transform: rotate(115deg);
+  -o-transform: rotate(115deg);
+  transform: rotate(115deg);
+}
+
+.mushroom.eleven {
+  margin: 281px 0 0 90px;
+  -webkit-transform: rotate(115deg);
+  -moz-transform: rotate(115deg);
+  -o-transform: rotate(115deg);
+  transform: rotate(115deg);
+}
