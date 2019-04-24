@@ -29,6 +29,7 @@ function renderPepperonni() {
 function renderMushrooms() {
   $('.btn-mushrooms').click(function(){
     $(this).toggleClass('active');
+    $(".mushroom").toggle();
   })
 }
 
