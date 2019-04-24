@@ -631,3 +631,43 @@ p.description {
   -o-transform: rotate(115deg);
   transform: rotate(115deg);
 }
+
+.mushroom.twenty-one {
+  margin: 277px 0 0 505px;
+  -webkit-transform: rotate(-27deg);
+  -moz-transform: rotate(-27deg);
+  -o-transform: rotate(-27deg);
+  transform: rotate(-27deg);
+}
+
+.mushroom.twenty-two {
+  margin: 509px 0 0 224px;
+  -webkit-transform: rotate(-29deg);
+  -moz-transform: rotate(-29deg);
+  -o-transform: rotate(-29deg);
+  transform: rotate(-29deg);
+}
+
+.mushroom.twenty-three {
+  margin: 477px 0 0 464px;
+  -webkit-transform: rotate(-29deg);
+  -moz-transform: rotate(-29deg);
+  -o-transform: rotate(-29deg);
+  transform: rotate(-29deg);
+}
+
+.mushroom.twenty-four {
+  margin: 98px 0 0 417px;
+  -webkit-transform: rotate(-29deg);
+  -moz-transform: rotate(-29deg);
+  -o-transform: rotate(-29deg);
+  transform: rotate(-29deg);
+}
+
+.mushroom.twenty-five {
+  margin: 169px 0 0 510px;
+  -webkit-transform: rotate(30deg);
+  -moz-transform: rotate(30deg);
+  -o-transform: rotate(30deg);
+  transform: rotate(30deg);
+}
