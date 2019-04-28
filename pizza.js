@@ -30,6 +30,8 @@ function renderMushrooms() {
   $('.btn-mushrooms').click(function(){
     $(this).toggleClass('active');
     $(".mushroom").toggle();
+    $('.mushPrice').toggle();
+    updatePrice();
   })
 }
 
