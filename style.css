@@ -472,6 +472,20 @@ p.description {
   margin-top: -10px;
 }
 
+.cap:hover{
+  -moz-transform: scale(1.3);
+  -webkit-transform: scale(1.3);
+  -o-transform: scale(1.3);
+  transform: scale(1.3);
+  }
+
+  .stem:hover{
+    -moz-transform: scale(1.3);
+    -webkit-transform: scale(1.3);
+    -o-transform: scale(1.3);
+    transform: scale(1.3);
+}
+
 .mushroom.one {
   margin: 367px 0 0 122px;
   -webkit-transform: rotate(22deg);
