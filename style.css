@@ -741,3 +741,71 @@ p.description {
   -o-transform: rotate(67deg);
   transform: rotate(67deg);
 }
+
+/* ----- Green Peppers ----- */
+
+.green-pepper {
+  position: absolute;
+  width: 20px;
+  height: 45px;
+  background: #2f5e20;
+  box-shadow: 2px 2px 2px rgba(66, 132, 45, .9);
+  margin: 250px 0 0 400px;
+  z-index: 30;
+}
+
+.green-pepper.one {
+  margin: 200px 0 0 100px;
+  -webkit-transform: rotate(22deg);
+  -moz-transform: rotate(22deg);
+  -o-transform: rotate(22deg);
+  transform: rotate(22deg);
+}
+
+.green-pepper.two {
+  margin: 450px 0 0 500px;
+  -webkit-transform: rotate(-47deg);
+  -moz-transform: rotate(-47deg);
+  -o-transform: rotate(-47deg);
+  transform: rotate(-47deg);
+}
+
+.green-pepper.three {
+  margin: 195px 0 0 200px;
+  -webkit-transform: rotate(115deg);
+  -moz-transform: rotate(115deg);
+  -o-transform: rotate(115deg);
+  transform: rotate(115deg);
+}
+
+.green-pepper.four {
+  margin: 90px 0 0 300px;
+  -webkit-transform: rotate(67deg);
+  -moz-transform: rotate(67deg);
+  -o-transform: rotate(67deg);
+  transform: rotate(67deg);
+}
+
+.green-pepper.five {
+  margin: 500px 0 0 300px;
+  -webkit-transform: rotate(-86deg);
+  -moz-transform: rotate(-86deg);
+  -o-transform: rotate(-86deg);
+  transform: rotate(-86deg);
+}
+
+.green-pepper.six {
+  margin: 300px 0 0 200px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+
+.green-pepper.seven {
+  margin: 340px 0 0 295px;
+  -webkit-transform: rotate(-47deg);
+  -moz-transform: rotate(-47deg);
+  -o-transform: rotate(-47deg);
+  transform: rotate(-47deg);
+}
