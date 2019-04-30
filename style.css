@@ -809,3 +809,59 @@ p.description {
   -o-transform: rotate(-47deg);
   transform: rotate(-47deg);
 }
+
+.green-pepper.eight {
+  margin: 500px 0 0 150px;
+  -webkit-transform: rotate(115deg);
+  -moz-transform: rotate(115deg);
+  -o-transform: rotate(115deg);
+  transform: rotate(115deg);
+}
+
+.green-pepper.nine {
+  margin: 300px 0 0 100px;
+  -webkit-transform: rotate(67deg);
+  -moz-transform: rotate(67deg);
+  -o-transform: rotate(67deg);
+  transform: rotate(67deg);
+}
+
+.green-pepper.ten {
+  margin: 400px 0 0 200px;
+  -webkit-transform: rotate(289deg);
+  -moz-transform: rotate(289deg);
+  -o-transform: rotate(289deg);
+  transform: rotate(289deg);
+}
+
+.green-pepper.eleven {
+  margin: 300px 0 0 200px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+
+.green-pepper.twelve {
+  margin: 300px 0 0 200px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+
+.green-pepper.thirteen {
+  margin: 300px 0 0 200px;
+  -webkit-transform: rotate(0deg);
+  -moz-transform: rotate(0deg);
+  -o-transform: rotate(0deg);
+  transform: rotate(0deg);
+}
+
+.green-pepper.fourteen {
+  margin: 210px 0 0 300px;
+  -webkit-transform: rotate(10deg);
+  -moz-transform: rotate(10deg);
+  -o-transform: rotate(10deg);
+  transform: rotate(10deg);
+}
