@@ -38,6 +38,7 @@ function renderMushrooms() {
 function renderGreenPeppers() {
   $('.btn-green-peppers').click(function(){
     $(this).toggleClass('active');
+    $(".green-pepper").toggle();
   })
 }
 
