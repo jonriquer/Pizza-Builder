@@ -47,6 +47,7 @@ function renderGreenPeppers() {
 function renderWhiteSauce() {
   $('.btn-sauce').click(function(){
     $(this).toggleClass('active');
+    $('.sauce').toggleClass('sauce-white');
   })
 }
 
