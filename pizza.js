@@ -48,6 +48,8 @@ function renderWhiteSauce() {
   $('.btn-sauce').click(function(){
     $(this).toggleClass('active');
     $('.sauce').toggleClass('sauce-white');
+    $('.saucePrice').toggle();
+    updatePrice();
   })
 }
 
