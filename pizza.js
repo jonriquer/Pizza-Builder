@@ -56,6 +56,7 @@ function renderWhiteSauce() {
 function renderCrust() {
   $('.btn-crust').click(function(){
     $(this).toggleClass('active');
+    $('.crust').toggleClass('crust-gluten-free');
   })
 }
 
