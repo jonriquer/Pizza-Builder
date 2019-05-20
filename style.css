@@ -247,6 +247,10 @@ p.description {
   margin-top: 6px;
 }
 
+.hidden {
+  display:none;
+}
+
 #pizza {
   margin: 15px auto;
   width: 702px;
